@@ -1,6 +1,6 @@
 ## Personal Porfolio Site
 
-My personal portfolio site. Can be viewed at www.benrogers.dev
+My personal portfolio site. Can be viewed at https://jack-noi.github.io
 
 ## Built with
 
