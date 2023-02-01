@@ -1,6 +1,6 @@
 ## Personal Porfolio Site
 
-My personal portfolio site. Can be viewed at https://jack-noi.github.io
+My personal portfolio site. Can be viewed at https://passion-127.github.io/my-portfolio/
 
 ## Built with
 
